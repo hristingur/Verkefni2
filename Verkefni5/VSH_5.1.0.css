@@ -1,0 +1,201 @@
+body
+{
+	width: 960px;
+	margin: 0 auto;
+	max-width: 60em;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ebebdb+0,e0e0c6+0,e0e0c6+14,e0e0c6+32,e7e7d1+50,d1d1d1+61,e0e0c6+72,e0e0c6+83,fefefe+100 */
+background: #ebebdb; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #ebebdb 0%, #e0e0c6 0%, #e0e0c6 14%, #e0e0c6 32%, #e7e7d1 50%, #d1d1d1 61%, #e0e0c6 72%, #e0e0c6 83%, #fefefe 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #ebebdb 0%,#e0e0c6 0%,#e0e0c6 14%,#e0e0c6 32%,#e7e7d1 50%,#d1d1d1 61%,#e0e0c6 72%,#e0e0c6 83%,#fefefe 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #ebebdb 0%,#e0e0c6 0%,#e0e0c6 14%,#e0e0c6 32%,#e7e7d1 50%,#d1d1d1 61%,#e0e0c6 72%,#e0e0c6 83%,#fefefe 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebebdb', endColorstr='#fefefe',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+
+}
+
+header
+{
+	border-style: solid;
+	height: 250px;
+	background: linear-gradient(to right bottom,#4da6ff, #cc6600 );
+	border-radius: 7px;
+
+}
+
+header h1
+{
+	width: 800px;
+	text-align: center;
+	color: #b92f1c;
+}
+
+header ul li
+{
+	margin: 0 0 0 35px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	display: inline;
+	font-size: 1.2em;
+ 	text-shadow: 2px 1px 2px #000;
+ 	font-size: 25px;
+}
+
+.fobobox
+{
+	
+}
+
+.fotbolti
+{
+	float: right;
+	margin-bottom: 10px;
+	border-radius: 30px;
+}
+.linkar
+{
+	margin: 100px 0 0 100px;
+}
+
+.link1
+{
+		color: #ffd633;
+}
+
+article
+{
+	height: 850px;
+	border-top-left-radius: 7px;	
+	border-top-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
+	background: linear-gradient(to right bottom, #cc6600, #4da6ff);
+}
+
+.leftbox
+{
+	border-top-left-radius: 7px;
+	border-bottom-left-radius: 7px;
+	width: 474px;
+	height: 395px;
+	float: left;
+	border-style: solid;		
+}
+
+.leftbox h1
+{
+	color: #339933;
+	text-shadow: 2px 1px 2px #000;
+	font-size: 1.7em;
+	margin: 10px 0 0 10px;
+}
+
+.leftbox p
+{	
+	margin-left: 10px;
+	font-size: 1.1em;
+	color: #f0c814;
+}
+.lala
+{
+	border-radius: 10px;	
+}
+
+.black
+{
+	color: black;
+}
+
+.rightbox
+{	
+	border-top-right-radius: 7px;
+	border-bottom-right-radius: 7px;	
+	width: 474px;
+	height: 395px;
+	float: left;
+	border-style: solid;	
+}
+
+.rightbox p
+{
+	color: #f0c814;
+	text-shadow: 2px 1px 2px #000;
+	font-size: 1.7em;
+	margin: 9px 0 0 10px;
+}
+.video
+{
+	padding: 0px;		
+}
+
+.audio
+{
+	float: right;
+	padding-bottom: 20px;
+	margin-right: 10px;
+}
+
+iframe
+{	
+	border-top-right-radius: 7px;
+	border-bottom-right-radius: 7px;
+}
+
+.mapp
+{
+	border-top-left-radius: 7px;
+	border-bottom-left-radius: 7px;
+	border-style: solid;
+	float: left;
+	height: 445px;
+}
+
+.korth1
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #f0c814;
+ 	text-shadow: 2px 1px 2px #000;
+ 	
+}
+.map
+{	
+
+	border-radius: 20px;
+}
+
+.taflabox
+{
+
+	border-top-right-radius: 7px;
+	border-bottom-right-radius: 7px;
+	border-style: solid;
+	height: 445px;
+	width: 474px;
+	float: left;
+}
+
+.taflah1
+{
+	
+	text-align: center;
+	color: #f0c814;
+ 	text-shadow: 2px 1px 2px #000;
+}
+
+footer
+{
+	border-style: solid;
+	height: 200px;
+	border-radius: 7px;
+	background: linear-gradient(to right bottom,#4da6ff, #cc6600 );
+}
+footer h1
+{
+	text-align: center;
+
+}
+.hooter
+{
+	float: left;
+}
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
